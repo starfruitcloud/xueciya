@@ -5,12 +5,12 @@
  * :copyright: (c) 2024, Xiaozhi
  * :date created: 2024-10-05 22:17:21
  * :last editor: 张德志
- * :date last edited: 2024-10-05 22:22:04
+ * :date last edited: 2024-10-06 05:00:21
  */
 
 export default function Footer() {
     return (
-      <div>底部导稿</div>
+      <footer className="bg-gray-700">底部导稿</footer>
     );
   }
   
