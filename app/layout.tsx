@@ -5,10 +5,9 @@
  * :copyright: (c) 2024, Xiaozhi
  * :date created: 2024-10-05 22:01:24
  * :last editor: 张德志
- * :date last edited: 2024-10-05 22:47:13
+ * :date last edited: 2024-10-06 04:47:21
  */
 import type { Metadata } from "next";
-import { NextUIProvider } from "@nextui-org/system";
 import localFont from "next/font/local";
 import Footer from "@/components/Footer";
 import NavBar from "@/components/NavBar";
