@@ -5,14 +5,9 @@
  * :copyright: (c) 2024, Xiaozhi
  * :date created: 2024-10-06 04:23:08
  * :last editor: 张德志
- * :date last edited: 2024-10-06 04:50:11
+ * :date last edited: 2024-10-06 04:53:23
  */
 export const NAV_MENU = [
-  {
-    name: "我的成就",
-    href: "achievement",
-    key: "achievement",
-  },
   {
     name: "选择课程",
     href: "/course",
@@ -22,6 +17,11 @@ export const NAV_MENU = [
     name: "在线练习",
     href: "/exercise",
     key: "exercise",
+  },
+  {
+    name: "我的成就",
+    href: "achievement",
+    key: "achievement",
   },
   {
     name: "错题本",
