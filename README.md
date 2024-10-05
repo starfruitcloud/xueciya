@@ -13,4 +13,4 @@ pnpm dev
 bun dev
 ```
 
-<!-- [last](https://www.bilibili.com/video/BV12X4y1X7Cs/?spm_id_from=333.788&vd_source=10257e657caa8b54111087a9329462e8) -->
+<!-- [last](https://www.bilibili.com/video/BV1rX4y1Q7WD/?spm_id_from=333.788&vd_source=10257e657caa8b54111087a9329462e8) -->
